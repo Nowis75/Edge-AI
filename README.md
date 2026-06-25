@@ -484,10 +484,6 @@ Doprovodné zdrojové kódy: https://github.com/Nowis75/Edge-AI
 
 Repozitář je praktickým doprovodným materiálem ke knize. Některé soubory představují ukázky, mezivýsledky nebo exportované modely určené k demonstraci konkrétního kroku vývoje. Struktura se může dále rozšiřovat podle doplňovaných příkladů.
 
-## Licence
-
-V repozitáři není explicitně uveden licenční soubor. Před použitím kódu, modelů nebo dat v komerčním či veřejně distribuovaném projektu doporučujeme ověřit licenční podmínky u autora repozitáře.
-
 ## Autor
 
 **Milan Novák**
