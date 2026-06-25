@@ -468,6 +468,7 @@ Takové rozdělení pomáhá oddělit experimenty, datové sady, modely a firmwa
 Autor: **Milan Novák**  
 Vydání: první  
 Nakladatelství: Jihočeská univerzita v Českých Budějovicích, 2026  
+ISBN: **978-80-7694-133-5**
 ISBN PDF: **978-80-7694-167-0**
 
 ## Jak citovat
@@ -475,9 +476,7 @@ ISBN PDF: **978-80-7694-167-0**
 Pokud používáte tento repozitář jako podpůrný materiál ke studiu nebo výuce, uveďte knihu a repozitář:
 
 ```text
-Novák, Milan. AI na hraně: Implementace Edge AI do embedded systémů prakticky.
-České Budějovice: Nakladatelství Jihočeské univerzity v Českých Budějovicích, 2026.
-Doprovodné zdrojové kódy: https://github.com/Nowis75/Edge-AI
+NOVÁK, Milan. AI na hraně: implementace Edge AI do embedded systémů - prakticky. České Budějovice: Nakladatelství Jihočeské univerzity v Českých Budějovicích, 2026. ISBN 9788076941335.
 ```
 
 ## Stav repozitáře
