@@ -468,7 +468,7 @@ Takové rozdělení pomáhá oddělit experimenty, datové sady, modely a firmwa
 Autor: **Milan Novák**  
 Vydání: první  
 Nakladatelství: Jihočeská univerzita v Českých Budějovicích, 2026  
-ISBN: **978-80-7694-133-5**
+ISBN: **978-80-7694-133-5**  
 ISBN PDF: **978-80-7694-167-0**
 
 ## Jak citovat
